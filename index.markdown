@@ -5,6 +5,7 @@
 layout: home
 ---
 
+<!-- 
 <!DOCTYPE html>
 <html lang="en-US">
   <head>
@@ -12,7 +13,7 @@ layout: home
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<!-- Begin Jekyll SEO tag v2.8.0 -->
+<!-- Begin Jekyll SEO tag v2.8.0
 <title>Data Science 8</title>
 <meta name="generator" content="Jekyll v3.9.5" />
 <meta property="og:title" content="Data Science 8" />
@@ -23,12 +24,10 @@ layout: home
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="Data Science 8" />
-
-<!-- End Jekyll SEO tag <script type="application/ld+json">
+End Jekyll SEO tag <script type="application/ld+json">
 {"@context":"https://schema.org","@type":"WebSite","headline":"Data Science 8","name":"Data Science 8","url":"http://www.data8.org/"}</script>-->
 
-    <link rel="stylesheet" href="/assets/css/style.css">
-    <!DOCTYPE html>
+<link rel="stylesheet" href="/assets/css/style.css">
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
@@ -43,14 +42,11 @@ layout: home
   </head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
-      
       <h1><a href="http://www.data8.org/">Data Science 8</a></h1>
-      
       <link rel="stylesheet" href="assets/css/main.css" />
+      <link rel="icon" type="image/x-icon" href="/favicon.ico" />
 
-<link rel="icon" type="image/x-icon" href="/favicon.ico" />
-
-<h1 id="data-8-the-foundations-of-data-science">Data 8: The Foundations of Data Science</h1>
+<h1 id="data-8-the-foundations-of-data-science">Data 198: Introduction to Real World Data Science</h1>
 
 <p>The UC Berkeley Foundations of Data Science course combines three perspectives:
 inferential thinking, computational thinking, and real-world relevance. Given
@@ -152,14 +148,9 @@ we have specifically designed for courses, and an <a href="https://github.com/da
 server</a> that loads assignments into the
 students’ environment.</p>
 
-<p>If you want more information about any of these tools, please fill out our <a href="https://forms.gle/maRqsceCvTNnqQ3w9">Data
-8 Instructor
-Interest</a>
-form or email <code class="language-plaintext highlighter-rouge">ds-help@berkeley.edu</code>.</p>
-
-
-      
-    </div>
+<p>If you want more information about any of these tools, please fill out our <a href="https://forms.gle/maRqsceCvTNnqQ3w9">Data 8 Instructor Interest</a> form or email <code class="language-plaintext highlighter-rouge">ds-help@berkeley.edu</code>.</p>
+   
+</div>
     <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
     <script>anchors.add();</script>
   </body>
