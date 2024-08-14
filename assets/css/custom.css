@@ -13,4 +13,6 @@
 .wrapper{
     max-width: 100% !important; /* Remove any existing max-width constraint */
     width: 100% !important;
+    margin-left: 20px !important;
+    margin-right: 20px !important;
 }

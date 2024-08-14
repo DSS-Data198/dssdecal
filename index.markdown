@@ -36,7 +36,7 @@ End Jekyll SEO tag <script type="application/ld+json">
     <title>DSS DeCal</title>
     <!--<link rel="icon" type="image/x-icon" href="../assets/images/favicon.ico">-->
   </head>
-  <body>
+  <body class = "wrapper">
   
   <h1> Data 198: Introduction to Real World Data Science </h1>
 
