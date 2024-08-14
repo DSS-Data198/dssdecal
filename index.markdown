@@ -39,25 +39,25 @@ End Jekyll SEO tag <script type="application/ld+json">
   </body>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
-      <h1><a href="http://www.data8.org/">Data Science 8</a></h1>
+      <h1><a href="https://dss-data198.github.io/dssdecal/">Data Science 198</a></h1>
       <link rel="stylesheet" href="assets/css/main.css" />
       <link rel="icon" type="image/x-icon" href="/favicon.ico" />
 
-<h1 id="data-8-the-foundations-of-data-science">Data 198: Introduction to Real World Data Science</h1>
+# Data 198: Introduction to Real World Data Science
 
-<p>The UC Berkeley Foundations of Data Science course combines three perspectives:
-inferential thinking, computational thinking, and real-world relevance. Given
-data arising from some real-world phenomenon, how does one analyze that data so
-as to understand that phenomenon? The course teaches critical concepts and
-skills in computer programming and statistical inference, in conjunction with
-hands-on analysis of real-world datasets, including economic data, document
-collections, geographical data, and social networks. It delves into social
-issues surrounding data analysis such as privacy and design.</p>
+Welcome to Data Science Society at Berkeley’s very own DeCal: Introduction to Real World Data Science, a semester-long course geared towards introducing students to essential data science skills through project-based learning. Our program takes a departure from the traditional classroom setting by allowing members to work collaboratively on an original data science project of their choosing. Members will have full creative control and will receive mentorship from our Decal’s committee members. We will cover every step of the data science lifecycle: from formulating a data-centric project idea, to extracting stories with exploratory data analysis, to finally creating and evaluating machine learning models.
 
-<h2 id="offerings">Offerings</h2>
+<br>
 
-<p>Each offering site includes links to assignments, slides, and readings.
-You are welcome to use any of the materials you find.</p>
+This introductory course covers a wide variety of data science concepts both traditionally and not traditionally taught in the lecture halls of Berkeley. We aim to give students programming expertise by providing engaging lessons going through the data science lifecycle while they work through the project lifecycle themselves in a semester-long project.
+
+<br>
+
+In this course, not only will students develop and hone their technical expertise, they will also experience data science in the real world through panels and speaker events. All this and more will challenge students and elevate them in the search for post-graduate opportunities, while still maintaining the low-pressure environment of a DeCal that values learning above all else.
+
+## >Offerings
+
+Each offering site includes links to assignments, slides, and readings. You are welcome to use any of the materials you find.
 
 <ul>
   <li><a href="./su24">Summer 2024</a></li>
@@ -109,6 +109,7 @@ as well as the <a href="https://pypi.python.org/pypi/datascience/">datascience</
 
 <p><strong>Lecture Materials</strong>: All lecture videos, slides and demonstration notebooks from <a href="https://www.youtube.com/playlist?list=PLFeJ2hV8Fyt7mjvwrDQ2QNYEYdtKSNA0y">Fall
 2016</a> to current iterations of the course are available via links on the respective course calendars.
+
 To request access to the source of the slides for
 instructional purposes, please fill out our <a href="https://docs.google.com/forms/d/e/1FAIpQLSfw6iN-V58Urvg7RRfbjNQceisLULBizg0qku1_2qV8cvOtvA/viewform">Data 8 Instructor
 Interest</a>
