@@ -9,3 +9,8 @@
     max-width: 100%; /* Remove any existing max-width constraint */
     width: 100%;
 }
+
+.wrapper{
+    max-width: 100% !important; /* Remove any existing max-width constraint */
+    width: 100% !important;
+}
