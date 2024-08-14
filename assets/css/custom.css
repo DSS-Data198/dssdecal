@@ -1,0 +1,11 @@
+/* Increase the width of the main content area */
+.container {
+    max-width: 1200px; /* Adjust the max-width to your desired value */
+    width: 100%;
+}
+
+/* Adjust the width of the content within the container */
+.page-content {
+    max-width: 100%; /* Remove any existing max-width constraint */
+    width: 100%;
+}

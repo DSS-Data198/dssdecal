@@ -31,8 +31,8 @@ End Jekyll SEO tag <script type="application/ld+json">
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <link rel="stylesheet" href="assets/css/main.css" />
-    <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+    <link rel="stylesheet" href="assets/css/main.css">
+    <link rel="icon" type="image/x-icon" href="/favicon.ico">
     <title>DSS DeCal</title>
     <!--<link rel="icon" type="image/x-icon" href="../assets/images/favicon.ico">-->
   </head>
