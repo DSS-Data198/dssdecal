@@ -37,9 +37,6 @@ End Jekyll SEO tag <script type="application/ld+json">
   <body>
 
   </body>
-</html>
-
-  </head>
   <body>
     <div class="container-lg px-3 my-5 markdown-body">
       <h1><a href="http://www.data8.org/">Data Science 8</a></h1>
