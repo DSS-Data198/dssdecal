@@ -31,17 +31,12 @@ End Jekyll SEO tag <script type="application/ld+json">
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <title></title>
+    <link rel="stylesheet" href="assets/css/main.css" />
+    <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+    <title>DSS DeCal</title>
     <!--<link rel="icon" type="image/x-icon" href="../assets/images/favicon.ico">-->
   </head>
   <body>
-
-  </body>
-  <body>
-    <div class="container-lg px-3 my-5 markdown-body">
-      <h1><a href="https://dss-data198.github.io/dssdecal/">Data Science 198</a></h1>
-      <link rel="stylesheet" href="assets/css/main.css" />
-      <link rel="icon" type="image/x-icon" href="/favicon.ico" />
 
 <h1> Data 198: Introduction to Real World Data Science <h2>
 
@@ -155,8 +150,12 @@ students’ environment.</p>
 <p>If you want more information about any of these tools, please fill out our <a href="https://forms.gle/maRqsceCvTNnqQ3w9">Data 8 Instructor Interest</a> form or email <code class="language-plaintext highlighter-rouge">ds-help@berkeley.edu</code>.</p>
    
 </div>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous"></script>
-    <script>anchors.add();</script>
-  </body>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous">
+</script>
+    
+<script>anchors.add();</script>
+</body>
+
 </html>
 
