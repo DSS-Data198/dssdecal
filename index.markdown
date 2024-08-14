@@ -43,19 +43,25 @@ End Jekyll SEO tag <script type="application/ld+json">
       <link rel="stylesheet" href="assets/css/main.css" />
       <link rel="icon" type="image/x-icon" href="/favicon.ico" />
 
-# Data 198: Introduction to Real World Data Science
+<h1> Data 198: Introduction to Real World Data Science <h2>
 
+<p>
 Welcome to Data Science Society at Berkeley’s very own DeCal: Introduction to Real World Data Science, a semester-long course geared towards introducing students to essential data science skills through project-based learning. Our program takes a departure from the traditional classroom setting by allowing members to work collaboratively on an original data science project of their choosing. Members will have full creative control and will receive mentorship from our Decal’s committee members. We will cover every step of the data science lifecycle: from formulating a data-centric project idea, to extracting stories with exploratory data analysis, to finally creating and evaluating machine learning models.
+</p>
 
 <br>
 
+<p>
 This introductory course covers a wide variety of data science concepts both traditionally and not traditionally taught in the lecture halls of Berkeley. We aim to give students programming expertise by providing engaging lessons going through the data science lifecycle while they work through the project lifecycle themselves in a semester-long project.
+</p>
 
 <br>
 
+<p>
 In this course, not only will students develop and hone their technical expertise, they will also experience data science in the real world through panels and speaker events. All this and more will challenge students and elevate them in the search for post-graduate opportunities, while still maintaining the low-pressure environment of a DeCal that values learning above all else.
+</p>
 
-## >Offerings
+<h2>Offerings</h2>
 
 Each offering site includes links to assignments, slides, and readings. You are welcome to use any of the materials you find.
 
