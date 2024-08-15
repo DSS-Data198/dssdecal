@@ -4,8 +4,6 @@
 
 layout: page
 ---
-
-<!-- 
 <!DOCTYPE html>
 <html lang="en-US">
   <head>
@@ -13,7 +11,7 @@ layout: page
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-<!-- Begin Jekyll SEO tag v2.8.0
+<!-- Begin Jekyll SEO tag v2.8.0 -->
 <title>Data Science 8</title>
 <meta name="generator" content="Jekyll v3.9.5" />
 <meta property="og:title" content="Data Science 8" />
@@ -24,25 +22,35 @@ layout: page
 <meta property="og:type" content="website" />
 <meta name="twitter:card" content="summary" />
 <meta property="twitter:title" content="Data Science 8" />
-End Jekyll SEO tag <script type="application/ld+json">
-{"@context":"https://schema.org","@type":"WebSite","headline":"Data Science 8","name":"Data Science 8","url":"http://www.data8.org/"}</script>-->
+<script type="application/ld+json"> {"@context":"https://schema.org","@type":"WebSite","headline":"Data Science 8","name":"Data Science 8","url":"http://www.data8.org/"}</script>
+<!-- End Jekyll SEO tag -->
 
-<link rel="stylesheet" href="/assets/css/style.css">
+  <link rel="stylesheet" href="/assets/css/style.css">
+  <!DOCTYPE html>
 <html lang="en" dir="ltr">
   <head>
     <meta charset="utf-8">
-    <link rel="stylesheet" href="assets/css/main.css">
-    <link rel="icon" type="image/x-icon" href="/favicon.ico">
     <title>DSS DeCal</title>
-    <!--<link rel="icon" type="image/x-icon" href="../assets/images/favicon.ico">-->
+    <link rel="icon" type="image/x-icon" href="../assets/images/favicon.ico">
   </head>
-  <body class = "wrapper">
-  
-  <h1> Data 198: Introduction to Real World Data Science </h1>
+  <body>
 
-<p>
-Welcome to Data Science Society at Berkeley’s very own DeCal: Introduction to Real World Data Science, a semester-long course geared towards introducing students to essential data science skills through project-based learning. Our program takes a departure from the traditional classroom setting by allowing members to work collaboratively on an original data science project of their choosing. Members will have full creative control and will receive mentorship from our Decal’s committee members. We will cover every step of the data science lifecycle: from formulating a data-centric project idea, to extracting stories with exploratory data analysis, to finally creating and evaluating machine learning models.
-</p>
+  </body>
+</html>
+
+  </head>
+  <body>
+  <div class="container-lg px-3 my-5 markdown-body">
+
+  <h1><a href="http://www.data8.org/">Data Science 8</a></h1>
+  
+  <link rel="stylesheet" href="/assets/css/main.css" />
+
+  <link rel="icon" type="image/x-icon" href="/favicon.ico" />
+    <h1> Data 198: Introduction to Real World Data Science </h1>
+      <p>
+      Welcome to Data Science Society at Berkeley’s very own DeCal: Introduction to Real World Data Science, a semester-long course geared towards introducing students to essential data science skills through project-based learning. Our program takes a departure from the traditional classroom setting by allowing members to work collaboratively on an original data science project of their choosing. Members will have full creative control and will receive mentorship from our Decal’s committee members. We will cover every step of the data science lifecycle: from formulating a data-centric project idea, to extracting stories with exploratory data analysis, to finally creating and evaluating machine learning models.
+      </p>
 
 <br>
 
@@ -148,7 +156,7 @@ server</a> that loads assignments into the
 students’ environment.</p>
 
 <p>If you want more information about any of these tools, please fill out our <a href="https://forms.gle/maRqsceCvTNnqQ3w9">Data 8 Instructor Interest</a> form or email <code class="language-plaintext highlighter-rouge">ds-help@berkeley.edu</code>.</p>
-   
+   </div>
 </div>
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/anchor-js/4.1.0/anchor.min.js" integrity="sha256-lZaRhKri35AyJSypXXs4o6OPFTbTmUoltBbDCbdzegg=" crossorigin="anonymous">
